@@ -16,7 +16,7 @@ End the program
 ## Program:
 #Program to find the solution for the given linear equations. #Developed by: Iswarya S #RegisterNumber:212225040135 import numpy as np A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,+5]]) B=np.array([-9,4,-1]) X=np.linalg.solve(A,B) print(X)
 ## Output:
-<img width="1917" height="1199" alt="image" src="https://github.com/user-attachments/assets/e09c482d-7336-4069-9e78-6fdbd11bfce4" />
+![WhatsApp Image 2026-03-26 at 23 36 56](https://github.com/user-attachments/assets/a3c332eb-a99c-4eaa-9cf6-8f4a38bf2fe5)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
